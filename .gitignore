@@ -1,0 +1,16 @@
+
+iiko_vector_db/
+
+.cache/
+huggingface/
+models/
+
+venv/
+.venv/
+env/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.env
