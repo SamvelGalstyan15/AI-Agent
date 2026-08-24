@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+chromadb
+torch
+sentence-transformers
+transformers
+accelerate
+requests
