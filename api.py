@@ -6,8 +6,6 @@ from sentence_transformers import SentenceTransformer
 
 app = FastAPI(title="AI Nomenclature Matcher API")
 
-# 2. Подключение к вашей существующей ChromaDB
-# Указываем тот же путь, что и в вашем блокноте
 CHROMA_PATH = "./real_iiko_db"
 COLLECTION_NAME = "yerevan_nomenclature"
 
