@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from tqdm import tqdm  
 
-API_URL = "http://10.10.19.241"
+API_URL = "http://10.10.19.241:8000/predict"
 INPUT_FILE = "invoice.xlsx"       
 OUTPUT_FILE = "invoice_processed.xlsx" 
 
